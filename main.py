@@ -1,3 +1,7 @@
+from tortoise import Tortoise, fields
+from tortoise.models import Model
+
+
 # This is a sample Python script.
 
 # Press Maj+F10 to execute it or replace it with your code.
